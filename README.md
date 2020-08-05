@@ -6,3 +6,4 @@ Implementation of exercises and some of the interesting algorithms from Udacityâ
 * [Bike sharing predictions](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-bikesharing/Predicting_bike_sharing_data.ipynb)
 * [Dog-breed classification](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-dog-classification/dog_app.ipynb)
 * [Style-transfer](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/style_transfer/Style_Transfer_Exercise.ipynb)
+* [Dermatologist AI to detect cancer](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/dermatologist-ai/Project%20-%20Derm.ipynb)
