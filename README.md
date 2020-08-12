@@ -7,4 +7,5 @@ Implementation of exercises and some of the interesting algorithms from Udacityâ
 * [Dog-breed classification](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-dog-classification/dog_app.ipynb)
 * [Style-transfer](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/style_transfer/Style_Transfer_Exercise.ipynb)
 * [Dermatologist AI to detect cancer](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/dermatologist-ai/Project%20-%20Derm.ipynb)
-* [TV Script_generation](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-tv-script-gen/dlnd_tv_script_generation.ipynb)
+* [TV Script generation](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-tv-script-gen/dlnd_tv_script_generation.ipynb)
+* [Fake face generation](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-face-generation/dlnd_face_generation.ipynb)
