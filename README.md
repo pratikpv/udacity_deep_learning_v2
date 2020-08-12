@@ -9,3 +9,4 @@ Implementation of exercises and some of the interesting algorithms from Udacityâ
 * [Dermatologist AI to detect cancer](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/dermatologist-ai/Project%20-%20Derm.ipynb)
 * [TV Script generation](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-tv-script-gen/dlnd_tv_script_generation.ipynb)
 * [Fake face generation](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-face-generation/dlnd_face_generation.ipynb)
+* [SageMaker deployment of Movie review Sentiment Analysis model](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-Sagemaker-deployment/SageMaker%20Project.ipynb)
