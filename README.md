@@ -1,4 +1,4 @@
-# Udacity's deep_learning_v2 course-work
+# The course-work of Nanodegree in Deep-learning from Udacity
 
 Implementation of exercises and some of the interesting algorithms from Udacityâ€™s Deep Learning course
 
@@ -10,3 +10,6 @@ Implementation of exercises and some of the interesting algorithms from Udacityâ
 * [TV Script generation](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-tv-script-gen/dlnd_tv_script_generation.ipynb)
 * [Fake face generation](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-face-generation/dlnd_face_generation.ipynb)
 * [SageMaker deployment of Movie review Sentiment Analysis model](https://github.com/pratikpv/udacity_deep_learning_v2/blob/master/project-Sagemaker-deployment/SageMaker%20Project.ipynb)
+
+
+Finally, [The Nanodegree in Deep-learning from Udacity](https://confirm.udacity.com/LVX5DYCD)
